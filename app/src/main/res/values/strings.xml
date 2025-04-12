@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">snacktrakt</string>
+    
+    <!-- Allgemeine Strings -->
+    <string name="back">Zurück</string>
+    <string name="refresh">Aktualisieren</string>
+    <string name="ok">OK</string>
+    <string name="error_unknown">Unbekannter Fehler</string>
+    
+    <!-- CaloriesScreen -->
+    <string name="calories_screen_title">Mahlzeit hinzufügen</string>
+    <string name="calories_screen_title_with_dog">Mahlzeit für %1$s hinzufügen</string>
+    <string name="calories_save_success">Mahlzeit wurde erfolgreich gespeichert</string>
+    <string name="calories_error_message">Fehler: %1$s</string>
+    
+    <!-- Dog Info -->
+    <string name="dog_breed">Rasse: %1$s</string>
+    <string name="dog_calorie_requirement">Kalorienbedarf: %1$s kcal</string>
+    <string name="dog_calorie_requirement_not_set">Nicht festgelegt</string>
+    <string name="dog_calories_consumed">Verbrauchte Kalorien: %1$d kcal</string>
+    <string name="dog_calories_remaining">Verbleibend: %1$d kcal (%2$d%%)</string>
+    <string name="no_dog_selected">Kein Hund ausgewählt. Bitte wählen Sie zuerst einen Hund aus.</string>
+    
+    <!-- Form Elements -->
+    <string name="meal_entry_title">Mahlzeit eintragen</string>
+    <string name="meal_description_label">Futter Beschreibung</string>
+    <string name="meal_calories_label">Kalorien (kcal)</string>
+    <string name="meal_save_button">Mahlzeit speichern</string>
+    
+    <!-- Barcode Scanner -->
+    <string name="scan_barcode">Barcode scannen</string>
+    <string name="barcode_scanner_tip">Tipp: Scannen Sie den Barcode der Futterverpackung</string>
+    <string name="barcode_camera_instruction">Richten Sie die Kamera auf einen Barcode</string>
+    <string name="barcode_detected_prefix">Barcode: %1$s</string>
+    <string name="barcode_detected_message">Barcode erkannt: %1$s</string>
+</resources>
